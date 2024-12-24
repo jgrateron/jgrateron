@@ -54,4 +54,5 @@
 - Gimp
 - ffmpeg
 - kdenlive
+- HSM (Cryptoserver, CP5)
 
